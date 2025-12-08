@@ -91,6 +91,7 @@ python sqlmap.py -u "目标URL" --cookie="Cookie值" -D 数据库名 --tables
 ```sql
 python sqlmap.py -u "目标URL" --cookie="Cookie值" -D 数据库名 -T 表名 --columns
 ```
+111.png
 
 ## ![](%E6%B8%97%E9%80%8F%E5%B7%A5%E5%85%B7-sqlmap%E7%9A%84%E4%BD%BF%E7%94%A8python/ce4cc8877a9b4f0db1e5afe0ed25f029.png)
 
