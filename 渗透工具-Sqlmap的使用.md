@@ -69,7 +69,8 @@ python sqlmap.py -u "目标URL" --cookie="Cookie值" --dbs
 
 ## ![](%E6%B8%97%E9%80%8F%E5%B7%A5%E5%85%B7-sqlmap%E7%9A%84%E4%BD%BF%E7%94%A8python/0bfeed4b09a64eccbaaceadabbc5f925.png)
 
-可以看到注入类型有布尔盲注，报错注入，时间盲注，联合查询注入。下面是获取到的数据库名。![](%E6%B8%97%E9%80%8F%E5%B7%A5%E5%85%B7-sqlmap%E7%9A%84%E4%BD%BF%E7%94%A8python/09148a7a4069495581b8dfa4b5431caa.png)
+可以看到注入类型有布尔盲注，报错注入，时间盲注，联合查询注入。下面是获取到的数据库名。
+https://github.com/jjhJianJianghong/Articles/blob/19347edb212ffcb588e9c5d65963516f38a74dce/111.png
 
 ## \-D 数据库名 --tables参数
 
